@@ -4,10 +4,10 @@
 	<modelVersion>4.0.0</modelVersion>
 	<packaging>pom</packaging>
 	<modules>
-		<module>web</module>
 		<module>data</module>
 		<module>service</module>
 		<module>security</module>
+		<module>web</module>
 	</modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
@@ -54,13 +54,5 @@
 		</dependency>
 	</dependencies>
 
-	<build>
-		<plugins>
-			<plugin>
-				<groupId>org.springframework.boot</groupId>
-				<artifactId>spring-boot-maven-plugin</artifactId>
-			</plugin>
-		</plugins>
-	</build>
 
 </project>
