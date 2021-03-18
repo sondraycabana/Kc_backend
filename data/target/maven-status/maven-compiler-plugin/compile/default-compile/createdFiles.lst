@@ -1,0 +1,10 @@
+com\king\cabana\project\model\EventPersonAddress.class
+com\king\cabana\project\model\VendorAddress.class
+com\king\cabana\project\model\EventAddress.class
+com\king\cabana\project\model\EventPerson.class
+com\king\cabana\project\model\Event.class
+com\king\cabana\project\model\EventType.class
+com\king\cabana\project\model\Vendor.class
+com\king\cabana\project\repository\EventRepository.class
+com\king\cabana\project\repository\EventPersonRepository.class
+com\king\cabana\project\model\EventPersonRole.class
